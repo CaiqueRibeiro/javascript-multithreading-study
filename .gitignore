@@ -1,0 +1,2 @@
+01.child-processes/**/node_modules
+02.worker-threads/**/node_modules
